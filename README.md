@@ -1,4 +1,4 @@
-[Readme.md](https://github.com/user-attachments/files/34911799/Readme.md)
+(https://github.com/user-attachments/files/34911799/Readme.md)
 # Смирнов Леонид и Сартов Эржан
 
 # Название вашего проекта: Погода
