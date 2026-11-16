@@ -34,7 +34,7 @@ elif vet < 40 and temperature > 25:
 elif vet < 70 and vet > 40 and temperature > 25:
     print("Летний зной")
 
-elif vet > 70 and temperature > 25:
+elif vet > 70 and vet < 100 and temperature > 25 and temperature < 100:
     print("Тропическая духота / Перед грозой или градом.")
 else:
     print("Такого нету")
